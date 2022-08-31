@@ -1,0 +1,42 @@
+@media screen and (max-width: 400px) {
+    .texto{
+        font-size: 5px;
+        height: 65px;
+        
+        
+    }
+    .parrafo{
+
+        font-size: 12px;
+        margin-top: 15%;
+    }
+    .secundario{
+        font-size: 12px;
+    }
+    .container-fluid{
+        position: relative;
+       
+    }
+    #salud{
+    
+        height: 15%;
+        display: flex;
+        justify-content: space-around;
+        background: rgb(3, 3, 77);
+        
+    }
+    #parte5{
+        position: relative;
+        margin-top: 65%;
+    }
+    .inicio{
+        font-size: 15px;
+      
+    }
+    .final{
+        font-size: 15px;
+      
+    }
+    
+
+}
